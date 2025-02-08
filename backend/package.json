@@ -1,7 +1,7 @@
 {
-  "name": "backend",
+  "name": "pingme-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend for PingMe – a real-time chat app powered by Node.js, Express, MongoDB, and Socket.io.",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
