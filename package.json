@@ -9,5 +9,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhiraj121212/PingMe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abhiraj121212/PingMe/issues"
+  },
+  "homepage": "https://github.com/Abhiraj121212/PingMe#readme"
 }
